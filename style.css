@@ -190,15 +190,13 @@
   }
 }
 
-.attribution {
-  margin-top: 2rem;
-}
-
 body {
   background-color: var(--cream);
   display: flex;
   flex-direction: column;
   font-family: "Montserrat", sans-serif;
+  justify-content: center;
+  min-height: 100vh;
 }
 
 .container:hover {
